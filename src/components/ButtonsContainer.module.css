@@ -1,0 +1,15 @@
+.ButtonContainer{
+  width: 80%;
+  margin:auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.ButtonContainer .singleButton{
+  width: 28%;
+  height: 60px;  
+  border:0;
+  margin:5px;
+}
